@@ -7,7 +7,7 @@ heroTitle: "Bienvenue au Club d’Ablis"
 heroSubtitle: "Club de Tennis de Table d’Ablis"
 ---
 
-![Logo du club](./images/logo.jpg)
+![Logo du club](../images/logo.jpg)
 
 ## 🏓 Bienvenue sur le site officiel du club !
 
