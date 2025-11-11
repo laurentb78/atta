@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-FR'
+defaultContentLanguage = 'fr'
+title = 'ATTA ABLIS'
+#cacheDir = "hugo_cache"
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[params]
+subtitle = "Club de Tennis de Table d'Ablis"
+hideMadeWithLine = true
+hideRSSLink = true
+
+[[menu.main]]
+name = "Accueil"
+pageRef = "/"
+weight = 10
+[[menu.main]]
+name = "Où nous trouver"
+pageRef = "/ou-nous-trouver"
+weight = 20
+[[menu.main]]
+name = "Articles"
+pageRef = "/articles"
+weight = 30
