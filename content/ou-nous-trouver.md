@@ -1,6 +1,5 @@
 +++
 date = '2025-11-09T21:20:01Z'
-draft = true
 title = 'Où nous trouver'
 +++
 
