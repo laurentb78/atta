@@ -1,6 +1,5 @@
 +++
 date = '2025-11-10T18:31:37Z'
-draft = true
 title = 'Championnat départemental Jeunes à Ablis'
 +++
 

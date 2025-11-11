@@ -1,6 +1,5 @@
 +++
 date = '2025-08-16T08:10:21Z'
-draft = true
 title = 'Nos sponsors'
 +++
 

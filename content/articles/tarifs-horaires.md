@@ -1,6 +1,5 @@
 +++
 date = '2025-08-16T08:10:21Z'
-draft = true
 title = 'Tarifs et horaires 2025-2026'
 +++
 
